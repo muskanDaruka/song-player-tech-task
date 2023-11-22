@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: auto;
+}
+
+.App {
+    text-align: center;
+    margin: 20px;
+}
+
+.player-container {
+    margin-top: 20px;
+
+}
+
+
+
+button {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(202, 160, 54);
+    color: black;
+}
+
+.song {
+    display: flex;
+
+}
